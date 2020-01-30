@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/LandPage/static/css/main.a6b3881f.chunk.css",
+    "main.js": "/LandPage/static/js/main.00da70d4.chunk.js",
+    "main.js.map": "/LandPage/static/js/main.00da70d4.chunk.js.map",
+    "runtime-main.js": "/LandPage/static/js/runtime-main.57533093.js",
+    "runtime-main.js.map": "/LandPage/static/js/runtime-main.57533093.js.map",
+    "static/js/2.17ec4e87.chunk.js": "/LandPage/static/js/2.17ec4e87.chunk.js",
+    "static/js/2.17ec4e87.chunk.js.map": "/LandPage/static/js/2.17ec4e87.chunk.js.map",
+    "index.html": "/LandPage/index.html",
+    "precache-manifest.56bb103c902806dffb704efad8f46d8f.js": "/LandPage/precache-manifest.56bb103c902806dffb704efad8f46d8f.js",
+    "service-worker.js": "/LandPage/service-worker.js",
+    "static/css/main.a6b3881f.chunk.css.map": "/LandPage/static/css/main.a6b3881f.chunk.css.map",
+    "static/js/2.17ec4e87.chunk.js.LICENSE": "/LandPage/static/js/2.17ec4e87.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57533093.js",
+    "static/js/2.17ec4e87.chunk.js",
+    "static/css/main.a6b3881f.chunk.css",
+    "static/js/main.00da70d4.chunk.js"
+  ]
+}
