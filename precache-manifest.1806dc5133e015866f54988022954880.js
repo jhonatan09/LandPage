@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b9fce59da81a8ee6cdfee1e16fa44491",
+    "revision": "567b3341866bcea7569ebbb0bdc241e5",
     "url": "/LandPage/index.html"
   },
   {
-    "revision": "4063afebd4698bcc1ede",
-    "url": "/LandPage/static/css/main.a6b3881f.chunk.css"
+    "revision": "f0e7062a755a225627be",
+    "url": "/LandPage/static/css/main.6f3c412f.chunk.css"
   },
   {
     "revision": "6f1b3a2ce2539d01ed1e",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LandPage/static/js/2.17ec4e87.chunk.js.LICENSE"
   },
   {
-    "revision": "4063afebd4698bcc1ede",
+    "revision": "f0e7062a755a225627be",
     "url": "/LandPage/static/js/main.00da70d4.chunk.js"
   },
   {
